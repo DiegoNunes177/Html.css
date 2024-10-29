@@ -1,8 +1,8 @@
 body {
     color: black;
-    background-image: url(https://i.ytimg.com/vi/gfI-7FwMeAE/maxresdefault.jpg);
+    background-image: url(https://cdn.antaranews.com/cache/1200x800/2023/08/16/000_33R84RB.jpg);
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;;
     background-size: cover;
     height: 98h;
     background-color: white;
@@ -26,7 +26,7 @@ img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid black
+    border: 5px solid transparent;
 }
 
 .center {
